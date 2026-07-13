@@ -35,7 +35,7 @@ Random Forest Regression achieved better predictive performance compared to Line
 ### System Architecture
 
 <p align="center">
-<img src="images/architecture.png" width="850">
+<img src="images/Crop_Yield_ML_Architecture.png" width="850">
 </p>
 
 ---
@@ -43,7 +43,7 @@ Random Forest Regression achieved better predictive performance compared to Line
 ### Workflow
 
 <p align="center">
-<img src="images/workflow.png" width="850">
+<img src="images/Crop_Yield_Workflow.png" width="850">
 </p>
 
 ---
@@ -67,7 +67,7 @@ Random Forest Regression achieved better predictive performance compared to Line
 ### Actual vs Predicted Yield
 
 <p align="center">
-<img src="images/prediction_example.png" width="650">
+<img src="images/actualvspredcrop.png" width="650">
 </p>
 
 ---
